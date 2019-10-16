@@ -8,14 +8,15 @@
     "build": "gulp"
   },
   "dependencies": {
-    "electron": "^6.0.12"
+    "electron": "^6.0.12",
+    "lodash.template": "^4.5.0"
   },
   "devDependencies": {
+    "@types/node": "^12.11.1",
     "del": "^5.1.0",
     "gulp": "^4.0.2",
-    "gulp-typescript": "^5.0.1",
-    "typescript": "^3.6.4",
     "gulp-run-electron": "^3.0.2",
-    "@types/node": "^12.11.1"
+    "gulp-typescript": "^5.0.1",
+    "typescript": "^3.6.4"
   }
 }
