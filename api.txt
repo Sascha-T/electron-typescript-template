@@ -1,9 +1,0 @@
-isSetup
-setup (basePath, launcherManaged?||objectWithOtherPaths)
-
-getAccounts
-addAccount (email, password)
-removeAccount (id)
-getAccountsImportable
-importAccount
-
