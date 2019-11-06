@@ -4,7 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "gulp"
+    "start": "gulp start",
+    "build": "gulp"
   },
   "dependencies": {
     "electron": "^6.0.12",
