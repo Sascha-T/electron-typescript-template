@@ -7,7 +7,7 @@
     "start": "gulp"
   },
   "dependencies": {
-    "electron": "^6.0.12",
+    "electron": "^15.5.5",
     "lodash.template": "^4.5.0"
   },
   "devDependencies": {
